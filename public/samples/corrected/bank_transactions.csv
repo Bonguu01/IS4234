@@ -1,0 +1,3 @@
+bank_id,partner_id,fbo_account_id,currency,business_date,transaction_ref,customer_id,amount
+BANK-001,PARTNER-001,FBO-001,USD,2026-10-20,TX-001,CUS-001,500.00
+BANK-001,PARTNER-001,FBO-001,USD,2026-10-20,TX-002,CUS-002,-100.00

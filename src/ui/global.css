@@ -1,0 +1,19 @@
+:root {
+  color: #17233a;
+  background: #f8faf9;
+  font-synthesis: none;
+  --mantine-color-body: #f8faf9;
+  --mantine-color-text: #17233a;
+  --mantine-color-default-border: #e6eae8;
+}
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 360px; }
+button, input, textarea, select { font: inherit; }
+a { color: #16866a; }
+button:focus-visible, a:focus-visible { outline: 3px solid #66bba0; outline-offset: 3px; }
+::selection { background: #dbf0e7; }
+.mantine-Paper-root { border-color: #e6eae8; }
+.mantine-Table-thead { background: #f8faf9; color: #647086; }
+.mantine-Table-th { font-size: 11px; font-weight: 600; white-space: nowrap; }
+.mantine-Table-td { font-size: 12px; }
+.mantine-Input-input { border-color: #e6eae8; }

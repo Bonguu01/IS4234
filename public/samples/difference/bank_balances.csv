@@ -1,0 +1,2 @@
+bank_id,partner_id,fbo_account_id,currency,business_date,opening_balance,closing_balance
+BANK-001,PARTNER-001,FBO-001,USD,2026-10-20,3000.00,3400.00
